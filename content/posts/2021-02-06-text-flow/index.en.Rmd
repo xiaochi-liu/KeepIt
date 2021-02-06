@@ -1,0 +1,132 @@
+---
+title: Text Flow
+author: Xiaochi Liu
+date: '2021-02-06'
+slug: []
+categories:
+  - Scientific Writing
+tags:
+  - writing for publication
+  - scientific writing
+description: ~
+featured_image: ~
+---
+
+> Informative topic sentences, with 'predictable' supporting sentences
+
+
+# Topic sentences
+
+An overview of the paragraph.
+
+Central topic or message.
+
+Guides the reader into the paragraph
+
+One message per paragraph
+
+Leads into the development of the message:
+
+* examples
+* definitions
+* justifications
+* contradictions
+* the analysis and solving of a problem
+
+
+
+
+
+# Continuity Devices
+
+
+
+## Repeat key terms
+
+Links ideas unmistakably
+
+Varying key terms is confusing
+
+> Digitalis increases the *contractility* of the mammalian heart.
+This increased *contractility* is a result of change in calcium flux through the muscle cell membrane.
+
+
+
+
+
+## Keep a consistent order
+
+If you list 2 or more items in the topic sentence, describe/explain them in the same order
+
+Fulfils reader's expectation
+
+Mention all items
+
+Avoid interrupting the order of your items by adding extra information
+
+## Keep a consistent point of view
+
+**Topic** should be the **subject** of the sentence
+
+Sentences with **same topic** -> sentences with **same subject**
+
+Easier to see a contrast
+
+Ensures supporting sentences relate clearly to topic sentence
+
+> These findings suggest that **patients** returning from tropical countries who show very itchy linear or serpiginous tracked skin eruptions should be tested for larvae of animal hookworms. 
+**Patients** with this disease, known as cutaneous larva migrans, should be treated with an antiparasitic drug such as thiabendazole. 
+These **patients** often also suffer from complications of the disease such as impetigo and allergic reactions.
+
+
+
+
+
+## Keep ideas in parallel form
+
+> The control injection of naloxone **produced** no significant changes in arterial blood pressure or heart rate.
+Twenty-four hours of morphine infusion **produced** no significant changes in arterial blood pressure or heart rate.
+
+
+
+
+## This + Summary Word
+
+
+
+## Subject & Verb placement
+
+Try to include the verb and its subject in the first 7-9 words of a sentence
+
+* avoid "top-heavy" sentence
+
+* write lists at the end of the sentence
+
+
+
+
+
+
+## Old information --> New information
+
+Old information = any information that the reader already knows.
+
+Place **old information** towards the **beginning of sentences**
+
+Place **new information** towards the **end of sentences**
+
+Information at the beginning of each sentence relates to the information
+
+* at the end of the sentences directly preceding them
+
+* the subject of the topic sentence or subtopic sentence
+
+
+
+
+
+## Transition words and phrases
+
+Don't use a transition or transition phrase in every sentence
+
+The connection is often apparent between sentences
