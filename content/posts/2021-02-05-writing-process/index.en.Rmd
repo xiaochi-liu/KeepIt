@@ -1,0 +1,65 @@
+---
+title: Writing Process
+author: Xiaochi Liu
+date: '2021-02-05'
+slug: []
+categories:
+  - Scientific Writing
+tags:
+  - writing for publication
+description: ~
+featured_image: ~
+---
+
+# Prewriting
+
+Choose the journal
+
+Instructions to authors:
+
+* Are there word limits? Page limits?
+* Limits on the number of tables/figures?
+* Do you need to provide any other sections in addition to IMRAD?
+* Are their detailed instructions for each section?
+* Save and refer to these instructions often!
+
+Decide the authorship
+
+
+# Drafting
+
+Review the literature
+
+Outline or create bullet points
+
+Organise from general -> specific
+
+Start writing
+
+* Don't wait, just write!
+
+* **Snack writing**: writing little and often
+
+* Take the writing process one step at a time
+    - Separate into sections
+    - Leave blanks for parts you are unsure about
+    - Keep thinking of the overall purpose of the paper and its answer
+    - **Keep the momentum going**: your first draft is not written in stone it WILL change!
+    - **Keep track of your references**
+
+Get into the writing habit through regular writing
+
+* Establish a writing routine: make a schedule and stick to it
+
+Having trouble putting your thoughts into sentences?
+
+* **Organise your materials**
+* Imitate model articles
+* Write simply
+* Use [sample sentence fragments](http://www.phrasebank.manchester.ac.uk/)
+* Write one step at a time
+* Set deadlines
+
+Expect multiple revisions
+
+Re-check journal formatting rules
